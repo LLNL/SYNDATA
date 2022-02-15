@@ -1,7 +1,7 @@
 
 ## Contributing Guidelines
 
-SYNDATA is an open source project. We welcome contributions via pull requests as well as questions, feature requests, or bug reports via issues. Contact our team at andre@llnl.gov with any questions. Please also refer to our [code of conduct](https://github.com/LLNL/.github/tree/master/community-health/CODE_OF_CONDUCT.md).
+SYNDATA is an open source project. We welcome contributions via pull requests as well as questions, feature requests, or bug reports via issues. Contact our team at andre@llnl.gov with any questions. Please also refer to our [code of conduct](https://github.com/LLNL/SYNDATA/blob/main/CODE_OF_CONDUCT.md).
 
 If you aren't a developer at LLNL, you won't have permission to push new branches to the repository. First, you should create a fork. This will create your copy of the SYNDATA repository and ensure you can push your changes up to GitHub and create PRs. 
 
