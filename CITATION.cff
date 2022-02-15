@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite our paper below."
+authors:
+  - family-names: "Goncalves"
+    given-names: "Andre"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Meng"
+    given-names: "Rui"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Ray"
+    given-names: "Priyadip"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Soper"
+    given-names: "Braden"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Sales"
+    given-names: "Ana Paula"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "SYNDATA Software"
+version: v.1.0
+doi: None
+date-released: 2022-02-15
+url: "https://github.com/LLNL/SYNDATA"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Goncalves"
+    given-names: "Andre"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Ray"
+    given-names: "Priyadip"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Soper"
+    given-names: "Braden"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Stevens"
+    given-names: "Jennifer"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Coyle"
+    given-names: "Linda"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Sales"
+    given-names: "Ana Paula"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.1186/s12874-020-00977-1"
+  journal: "BMC Medical Research Methodology"
+  month: 5
+  start: 1 # First page number
+  end: 40 # Last page number
+  title: "Generation and evaluation of synthetic patient data"
+  number: 1
+  volume: 20
+  year: 2020
